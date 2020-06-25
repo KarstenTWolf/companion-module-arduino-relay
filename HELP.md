@@ -2,7 +2,8 @@
 
 Based on code from the generic HTTP module. Uses GET requests. 
 
-Uses the Analog pins, so can be adapted to non-relay use cases.
+Uses the Analog pins, so can be adapted to non-relay use cases. Be sensible, don't use this for overhead or mechanical applications. The intended usecase is adding a network interface to inexpensive or legacy gear by way of using relays to open/close front panel buttons.
+
 
 See accompanying Companion-Arduino-Relay.ino
 The sketch can also be triggered directly via http from a browser. 
