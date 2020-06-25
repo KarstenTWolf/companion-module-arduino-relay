@@ -5,7 +5,7 @@
 
   Tested with arduino nano and ENC28J60 ethernet module.
 
-  Be sensible, don't use this for overhead or mechanical applications. The intended usecase is adding a network interface to inexpensive or legacy gear.
+  Be sensible, don't use this for overhead or mechanical applications. The intended usecase is adding a network interface to inexpensive or legacy gear by way of using relays to open/close front panel buttons.
 
 
   Majortity of code taken from: https://www.arduino.cc/en/Tutorial/WebServer
