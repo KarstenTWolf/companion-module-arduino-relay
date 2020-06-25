@@ -39,7 +39,7 @@ instance.prototype.config_fields = function () {
 		id: 'info',
 		width: 12,
 		label: 'Information',
-		value: 'Arduino Relay (or other use cases) module. See included .ino file to load into arduino. Port 80.'
+		value: 'Arduino Relay (or other use cases) module. See included .ino file to load into arduino.'
 	},
 	{
 		type: 'textinput',
